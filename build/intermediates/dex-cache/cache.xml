@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shorabhd/Shorabh/NewsGateway/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a51e6b4ce015207e0a951c7259beeef6870f26c2">
+        <dex dex="/Users/shorabhd/Shorabh/NewsGateway/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e2e58f2b0edf1ef53fb93fc4a143d7629230f57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shorabhd/Shorabh/NewsGateway/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/shorabhd/Shorabh/NewsGateway/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ec107d7152d2be3c241ef4f736841292b73750eb/classes.dex" />
+    </item>
+
+</items>
